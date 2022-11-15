@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmbroiseOdonnat
-- 👀 I’m interested in Computer Vision Machine Learning Deep Learning methods applied in various sectors such as medical imaging or sports
-- 🌱 I’m currently working as a research intern at the NeuroPoly Lab in Montreal,QC ( deep learning applied to medical imaging)
+- 👀 I’m interested in Machine Learning, Deep Learning, Optimisation methods
+- 🌱 I’m currently looking for a research internship in Machine Learning, Deep Learning, Optimisation, Federated Learning as of April 2023
 - 💞️ I’m looking to collaborate on various ML anc Computer Vision projects 
 
 <!---
